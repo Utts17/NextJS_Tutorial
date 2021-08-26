@@ -11,10 +11,10 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-        Read{' '}
+        Read{' '} 
          
         <Link href="/posts/first-post">
-         <a>this page!</a>
+         <a>this page! </a>
         </Link>
         </h1>
     
